@@ -24,7 +24,7 @@ Bem-vindo às nossas aventuras. Divirta-se e respeite os outros, <br/>
 Olario
 
 <figure>
-    <iframe width="530" height="335" src="https://www.youtube.com/embed/JwYX52BP2Sk" frameborder="0" allowfullscreen></iframe>
+    <iframe width="530" height="335" src="https://www.youtube.com/embed/JwYX52BP2Sk" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
     <figcaption>Time<br/>
 
