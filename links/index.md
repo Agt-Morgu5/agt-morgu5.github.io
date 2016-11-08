@@ -10,11 +10,11 @@ enable_chat: true
     <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
 </figure>
 
-Aqui tem uma lista de links (blogs, sites,...) de que recebo inspiração. Vale a visita...
+Aqui tem uma lista de links (blogs, sites,...) de que recebo inspiração. Vale a visita.
 
-##### <i class="fa fa-hand-o-right"></i> Blogs
+##### <i class="fa fa-hand-o-right"></i> Blogs / music
 
-* [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [GR]
+* [Poet's Sound](http://poetssound.blogspot.com/){:target="_blank"}  [GR]
 * [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [EN/GR]
 * [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.com/){:target="_blank"}  [GR/EN]
 * [Mouxlaloulouda](http://mysteryfallsdown.blogspot.com/){:target="_blank"}  [GR/EN]
