@@ -10,11 +10,11 @@ enable_chat: true
     <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
 </figure>
 
-Here is a list of internet resources (blogs, sites, etc) from which I get inspiration. Pay them a visit...
+Aqui uma lista de links de sites, blogs, entre outros que visito para receber inspiração.
 
 ##### <i class="fa fa-hand-o-right"></i> Blogs / music
 
-* [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [GR]
+* [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [BR]
 * [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [EN/GR]
 * [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.com/){:target="_blank"}  [GR/EN]
 * [Mouxlaloulouda](http://mysteryfallsdown.blogspot.com/){:target="_blank"}  [GR/EN]
