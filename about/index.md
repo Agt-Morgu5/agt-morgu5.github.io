@@ -42,14 +42,14 @@ Olario Berwald
     Now there's a look in your eyes<br/>
     Like black holes in the sky<br/>
     Shine on, you crazy diamond<br/>
-
+<br/>
     You were caught in the crossfire<br/>
     Of childhood and stardom<br/>
     Blown on, the steel breeze<br/>
     Come on, you target for faraway laughter<br/>
     Come on, you stranger, you legend<br/>
     You martyr, and shine!<br/>
-
+<br/>
     You reached for the secret too soon<br/>
     You cried for the moon<br/>
     Shine on you crazy diamond<br/>
@@ -57,20 +57,20 @@ Olario Berwald
     And exposed to the light<br/>
     Shine on you crazy diamond<br/>
     Well you wore out your welcome<br/>
-
+<br/>
     With random precision<br/>
     Rode on the steel breeze<br/>
     Come on, you raver, you seer of visions<br/>
     Come on, you painter, you piper<br/>
     You prisoner, and shine!<br/>
-
+<br/>
     Nobody knows where you are<br/>
     How near or how far<br/>
     Shine on, you crazy diamond<br/>
     Pile on many more layers<br/>
     And I'll be joining you there<br/>
     Shine on, you crazy diamond<br/>
-
+<br/>
     And we'll bask in the shadow<br/>
     Of yesterday's triumph<br/>
     And sail on the steel breeze<br/>
