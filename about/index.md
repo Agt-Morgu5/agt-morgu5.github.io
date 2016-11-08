@@ -34,5 +34,5 @@ And there is time to kill today<br/>
 And then one day, you find<br/>
 Ten years have got behind you<br/>
 No one told you when to run<br/>
-You missed the starting gun</figcaption>
+You missed the starting gus</figcaption>
 </figure>
