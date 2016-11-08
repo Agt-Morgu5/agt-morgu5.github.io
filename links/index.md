@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Places I visit frequently...
+title: Lugares que visito frequentemente...
 excerpt: "A list of interesting internet links, such as blogs, sites, etc that I visit frequently"
 hidelogo: true
 #modified: 2016-07-16T19:44:38.564948-04:00
@@ -24,7 +24,7 @@ Here is a list of internet resources (blogs, sites, etc) from which I get inspir
 ##### <i class="fa fa-hand-o-right"></i> Tumblr
 
 * [elenelli](http://elenelli.tumblr.com/){:target="_blank"}
-* [mysteryheaven](http://mysteryheaven.tumblr.com/){:target="_blank"} 
+* [mysteryheaven](http://mysteryheaven.tumblr.com/){:target="_blank"}
 * [inhal3rt](http://inhal3rt.tumblr.com/){:target="_blank"}
 * [starelf ophelia](http://elenib.tumblr.com/){:target="_blank"}
 * [ghoulnextdoor](http://ghoulnextdoor.tumblr.com/){:target="_blank"}
