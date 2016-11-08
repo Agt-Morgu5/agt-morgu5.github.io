@@ -36,20 +36,6 @@ Olario Berwald
 
     <figcaption>Shine On You Crazy Diamond<br/>
 
-    Remember when you were young?<br/>
-    You shone like the sun<br/>
-    Shine on, you crazy diamond<br/>
-    Now there's a look in your eyes<br/>
-    Like black holes in the sky<br/>
-    Shine on, you crazy diamond<br/>
-<br/>
-    You were caught in the crossfire<br/>
-    Of childhood and stardom<br/>
-    Blown on, the steel breeze<br/>
-    Come on, you target for faraway laughter<br/>
-    Come on, you stranger, you legend<br/>
-    You martyr, and shine!<br/>
-<br/>
     You reached for the secret too soon<br/>
     You cried for the moon<br/>
     Shine on you crazy diamond<br/>
