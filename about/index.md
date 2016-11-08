@@ -7,7 +7,7 @@ enable_chat: true
 ---
 
 <span class="dcap">C</span>aro viajante, seja bem vindo e obrigado pela visita,
-Eu me chamo Olario e respondo também pelo codinome Morgu5 (<i>morgus, morgu "five"</i>[cinco em inglês]), onde o "5" é um acrônimo ao "s", e também de fácil substituição. Aqui escrevemos coisas sobre [musica](/music){:target="_blank"},  [ficção](/stories){:target="_blank"} e as vezes [visões e vida diária](/blog){:target="_blank"}.  Você encontrará conteúdo em português, inglês e grego, dependendo muito de nosso humor. Você não encontrará muitas fotos ou outros prazeres visuais cintilantes (talvez para embelezar o tema do post quando necessário); O foco aqui é, portanto, falar sobre a vida sobre duas perspectivas.
+Eu me chamo Olario e respondo também pelo codinome Morgu5 [<i>morgus, morgu "five"</i>(cinco em inglês)], onde o "5" é um acrônimo ao "s", e também de fácil substituição. Aqui escrevemos coisas sobre [musica](/music){:target="_blank"},  [ficção](/stories){:target="_blank"} e as vezes [visões e vida diária](/blog){:target="_blank"}.  Você encontrará conteúdo em português, inglês e grego, dependendo muito de nosso humor. Você não encontrará muitas fotos ou outros prazeres visuais cintilantes (talvez para embelezar o tema do post quando necessário); O foco aqui é, portanto, falar sobre a vida sobre duas perspectivas.
 
  <div class="text-divider"></div>
 
