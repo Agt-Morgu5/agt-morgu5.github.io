@@ -28,8 +28,8 @@ Como um hacker de software qualquer faria, Morgu5 tem modificado o tema de Micha
 
 Se você deseja entrar em contato conosco, sinta-se a vontade para usar um dos links na parte inferior (rodapé).
 
-Bem-vindo ao nosso universo. Não repare, a casa ainda está meio bagunçada por conta da construção deste blog. Divirta-se e respeite os outros,
-Olario Berwald <br/>
+Bem-vindo ao nosso universo. Não repare, a casa ainda está meio bagunçada por conta da construção deste blog. Divirta-se e respeite os outros,<br/>
+Olario Berwald
 
 <figure>
     <iframe width="530" height="335" src="https://www.youtube.com/embed/JwYX52BP2Sk" frameborder="0" allowfullscreen>&nbsp;</iframe>
