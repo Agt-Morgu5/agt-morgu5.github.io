@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lugares que visito frequentemente...
-excerpt: "Uma lista de links interessantes da internet que visito com frequência".
+excerpt: "Uma lista de links interessantes da internet que visito com frequência."
 hidelogo: true
 #modified: 2016-07-16T19:44:38.564948-04:00
 enable_chat: true
@@ -10,7 +10,7 @@ enable_chat: true
     <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
 </figure>
 
-Aqui tem uma lista de links (blogs, sites,...) de que recebo inspiração. Vale a visita.
+Here is a list of internet resources (blogs, sites, etc) from which I get inspiration. Pay them a visit...
 
 ##### <i class="fa fa-hand-o-right"></i> Blogs / music
 
