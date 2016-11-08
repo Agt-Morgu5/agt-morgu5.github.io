@@ -8,7 +8,7 @@ enable_chat: true
 
 Caro viajante, seja bem vindo e obrigado pela visita,
 
-Eu me chamo Olario e respondo também pelo codinome Morgu5, e nós compartilhamos coisas sobre [musica](/music){:target="_blank"},  [ficção](/stories){:target="_blank"} e as vezes nossas [visões e vida diária](/blog){:target="_blank"}.  Você encontrará conteúdo em português, inglês grego, dependendo muito de nosso humor. Você não encontrará muitas fotos ou outros prazeres visuais cintilantes (talvez para embelezar o tema do post quando necessário); O foco aqui é, portanto, falar sobre a vida sobre duas perspectivas.
+Eu me chamo Olario e respondo também pelo codinome Morgu5, e aqui escrevemos coisas sobre [musica](/music){:target="_blank"},  [ficção](/stories){:target="_blank"} e as vezes [visões e vida diária](/blog){:target="_blank"}.  Você encontrará conteúdo em português, inglês e grego, dependendo muito de nosso humor. Você não encontrará muitas fotos ou outros prazeres visuais cintilantes (talvez para embelezar o tema do post quando necessário); O foco aqui é, portanto, falar sobre a vida sobre duas perspectivas.
 
 Morgu5 estudou física, engenharia, informática e filosofia. Atualmente, ele ganha seu pão (e meu também) como hacker autônomo. Mas acho que não é por isso que você está aqui, não é? Pelo menos você não ficará frustrado ao encontrar apenas traços de tópicos técnicos... Morgu5 prefere escrever histórias de ficção, mas infelizmente seu tempo livre é pequeno e precioso. Ele está tentando seu melhor, porém isso são outras histórias que ganharão suas páginas em breve.
 
