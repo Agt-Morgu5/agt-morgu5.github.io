@@ -31,16 +31,50 @@ Se você deseja entrar em contato conosco, sinta-se a vontade para usar um dos l
 Bem-vindo ao nosso universo. Não repare, a casa ainda está meio bagunçada por conta da construção deste blog. Divirta-se e respeite os outro;<br/>
 Olario Berwald
 
-<iframe width="640" height="360" src="https://www.youtube.com/embed/0SqFPNTBnv8" frameborder="0" allowfullscreen>&nbsp;</iframe>
+<figure>
+    <iframe width="640" height="360" src="https://www.youtube.com/embed/0SqFPNTBnv8" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
-    <figcaption>Time<br/>
+    <figcaption>Shine On You Crazy Diamond<br/>
 
-Tired of lying in the sunshine<br/>
-Staying home to watch the rain<br/>
-You are young, and life is long<br/>
-And there is time to kill today<br/>
-And then one day, you find<br/>
-Ten years have got behind you<br/>
-No one told you when to run<br/>
-You missed the starting gus</figcaption>
-</figure>
+    Remember when you were young?<br/>
+    You shone like the sun<br/>
+    Shine on, you crazy diamond<br/>
+    Now there's a look in your eyes<br/>
+    Like black holes in the sky<br/>
+    Shine on, you crazy diamond<br/>
+
+    You were caught in the crossfire<br/>
+    Of childhood and stardom<br/>
+    Blown on, the steel breeze<br/>
+    Come on, you target for faraway laughter<br/>
+    Come on, you stranger, you legend<br/>
+    You martyr, and shine!<br/>
+
+    You reached for the secret too soon<br/>
+    You cried for the moon<br/>
+    Shine on you crazy diamond<br/>
+    Threatened by shadows at night<br/>
+    And exposed to the light<br/>
+    Shine on you crazy diamond<br/>
+    Well you wore out your welcome<br/>
+
+    With random precision<br/>
+    Rode on the steel breeze<br/>
+    Come on, you raver, you seer of visions<br/>
+    Come on, you painter, you piper<br/>
+    You prisoner, and shine!<br/>
+
+    Nobody knows where you are<br/>
+    How near or how far<br/>
+    Shine on, you crazy diamond<br/>
+    Pile on many more layers<br/>
+    And I'll be joining you there<br/>
+    Shine on, you crazy diamond<br/>
+
+    And we'll bask in the shadow<br/>
+    Of yesterday's triumph<br/>
+    And sail on the steel breeze<br/>
+    Come on, you boy child, you winner and loser<br/>
+    Come on, you miner for truth and delusion<br/>
+    And shine</figcaption>
+    </figure>
