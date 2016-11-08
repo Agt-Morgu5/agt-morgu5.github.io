@@ -25,7 +25,7 @@ Certo dia o garoto em punho cerrado, em posição de decolagem, confiando plenam
 
 <div class="central-quote">"Quebrando coisas". Desde cedo o entusiasmo pelo hardware.</div>
 
-Aproveito para me apresentar um pouco melhor. Você já deve ter deduzido, meu nome é Olario, sou hacker e estudante autodidata. Por anos fui meu próprio professor.  Informação que desperta ternura. Ou pena. Para os que desconhecem o valor que existe no esforço. "Gosta do que além de computadores?" Ora, de várias coisas, mas de imediato posso citar musica, se fosse me aproximar de algo comum entre as pessoas. Não sou capaz de identificar um gênero de música que descreva meus gostos. No entanto, eu tenho uma preferência bastante tendenciosa para rock progressivo com letras filosóficas, trilhas de terror e sons ambiente. Definitivamente eu sou muito exigente quando se trata de música, tanto quanto Morgu5 é.
+<span class="dcap">A</span>proveito para me apresentar um pouco melhor. Você já deve ter deduzido, meu nome é Olario, sou hacker e estudante autodidata. Por anos fui meu próprio professor.  Informação que desperta ternura. Ou pena. Para os que desconhecem o valor que existe no esforço. "Gosta do que além de computadores?" Ora, de várias coisas, mas de imediato posso citar musica, se fosse me aproximar de algo comum entre as pessoas. Não sou capaz de identificar um gênero de música que descreva meus gostos. No entanto, eu tenho uma preferência bastante tendenciosa para rock progressivo com letras filosóficas, trilhas de terror e sons ambiente. Definitivamente eu sou muito exigente quando se trata de música, tanto quanto Morgu5 é.
 
  <div class="text-divider"></div>
 
