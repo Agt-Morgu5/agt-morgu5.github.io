@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lugares que visito frequentemente...
-excerpt: "A list of interesting internet links, such as blogs, sites, etc that I visit frequently"
+excerpt: "Uma lista de links interessantes da internet que visito com frequência".
 hidelogo: true
 #modified: 2016-07-16T19:44:38.564948-04:00
 enable_chat: true
@@ -10,11 +10,11 @@ enable_chat: true
     <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
 </figure>
 
-Here is a list of internet resources (blogs, sites, etc) from which I get inspiration. Pay them a visit...
+Aqui tem uma lista de links (blogs, sites,...) de que recebo inspiração. Vale a visita...
 
-##### <i class="fa fa-hand-o-right"></i> Blogs / music
+##### <i class="fa fa-hand-o-right"></i> Blogs
 
-* [Poet's Sound](http://poetssound.blogspot.com/){:target="_blank"}  [GR]
+* [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [GR]
 * [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [EN/GR]
 * [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.com/){:target="_blank"}  [GR/EN]
 * [Mouxlaloulouda](http://mysteryfallsdown.blogspot.com/){:target="_blank"}  [GR/EN]
