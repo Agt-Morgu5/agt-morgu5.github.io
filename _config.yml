@@ -1,9 +1,9 @@
 # Site wide configuration
 
-title: Morgu5 BlogBook
+title: Morgu5 blog book
 locale: pt_BR
 timezone: CET
-description: Dois mundos, dentro e fora da caverna.
+description: Dois mundos; dentro e fora da caverna.
 logo: site-logo.svg
 search: true
 url: http://morgu5.xyz
@@ -67,7 +67,7 @@ owner:
   tawkto:
     siteID: #username
   google:
-    plus:
+    plus: OlarioBerwlad
     analytics: #username
     verify:
     ad-client:
