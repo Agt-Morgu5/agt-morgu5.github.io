@@ -51,12 +51,5 @@ Olario Berwald
     Shine on, you crazy diamond<br/>
     Pile on many more layers<br/>
     And I'll be joining you there<br/>
-    Shine on, you crazy diamond<br/>
-<br/>
-    And we'll bask in the shadow<br/>
-    Of yesterday's triumph<br/>
-    And sail on the steel breeze<br/>
-    Come on, you boy child, you winner and loser<br/>
-    Come on, you miner for truth and delusion<br/>
-    And shine</figcaption>
+    Shine on, you crazy diamond</figcaption>
     </figure>
