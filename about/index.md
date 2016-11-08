@@ -24,16 +24,34 @@ Bem-vindo às nossas aventuras. Divirta-se e respeite os outros, <br/>
 Olario
 
 <figure>
-    <iframe width="530" height="335" src="https://www.youtube.com/embed/JwYX52BP2Sk" frameborder="0" allowfullscreen>&nbsp;</iframe>
-
-    <figcaption>Time<br/>
-
-Tired of lying in the sunshine<br/>
-Staying home to watch the rain<br/>
-You are young, and life is long<br/>
-And there is time to kill today<br/>
-And then one day, you find<br/>
-Ten years have got behind you<br/>
-No one told you when to run<br/>
-You missed the starting gus</figcaption>
+    <iframe width="530" height="335" src="//www.youtube.com/embed/xTysF1E4Ft0?rel=0" frameborder="0" allowfullscreen>&nbsp;</iframe>
+    <figcaption>Dear little lad<br/>
+Here's the story of my life<br/>
+I lived on the moon (2x)<br/>
+Grey flying snakes along<br/>
+Mountains of destiny while<br/>
+the three tailed moneys<br/>
+were drawing the stars<br/>
+Light from the Sun<br/>
+and I hide myself<br/>
+on the dark side, alone<br/>
+I've run so far,<br/>
+to find my way<br/>
+Then I dream again.. alone<br/>
+<br/>
+Dear little boy, listen<br/>
+To voices of your soul<br/>
+It showed you the way of<br/>
+silence and peace<br/>
+Follow your thought and fly<br/>
+Choosing all the things<br/>
+that you desire<br/>
+Giant waves, fireflies..<br/>
+Your dream will be<br/>
+your only shell<br/>
+Your secrets,<br/>
+your hiding place, my son<br/>
+Don't let them try<br/>
+To crush your brain<br/>
+Let you go far ...my son</figcaption>
 </figure>
