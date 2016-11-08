@@ -26,41 +26,13 @@ Olario
 <figure>
     <iframe width="1280" height="720" src="https://www.youtube.com/embed/JwYX52BP2Sk" frameborder="0" allowfullscreen></iframe>
     <figcaption>Time<br/>
-    Ticking away, the moments that make up a dull day<br/>
-    You fritter and waste the hours in an offhand way<br/>
-    Kicking around on a piece of ground in your home town<br/>
-    Waiting for someone or something to show you the way<br/>
 
-    Tired of lying in the sunshine<br/>
-    Staying home to watch the rain<br/>
-    You are young, and life is long<br/>
-    And there is time to kill today<br/>
-    And then one day, you find<br/>
-    Ten years have got behind you<br/>
-    No one told you when to run<br/>
-    You missed the starting gun<br/>
-
-    And you run and you run to catch up with the sun<br/>
-    But it's sinking<br/>
-    And racing around to come up behind you again<br/>
-    The sun is the same in a relative way<br/>
-    But you're older<br/>
-    Shorter of breath and one day closer to death<br/>
-
-    Every year is getting shorter<br/>
-    Never seem to find the time<br/>
-    Plans that either come to naught<br/>
-    Or half a page of scribbled lines<br/>
-    Hanging on in quiet desperation is the english way<br/>
-    The time has gone, the song is over<br/>
-    Thought I'd something more to say<br/>
-
-    Home, home again<br/>
-    I like to be here when I can<br/>
-    When I come home cold and tired<br/>
-    It's good to warm my bones beside the fire<br/>
-    Far away, across the field<br/>
-    The tolling of the iron bell<br/>
-    Calls the faithful to their knees<br/>
-    To hear the softly spoken magic spells</figcaption>
-    </figure>
+Tired of lying in the sunshine<br/>
+Staying home to watch the rain<br/>
+You are young, and life is long<br/>
+And there is time to kill today<br/>
+And then one day, you find<br/>
+Ten years have got behind you<br/>
+No one told you when to run<br/>
+You missed the starting gun</figcaption>
+</figure>
