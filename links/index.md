@@ -12,13 +12,13 @@ enable_chat: true
 
 Aqui uma lista de links de sites, blogs, entre outros que visito para receber inspiração.
 
-##### <i class="fa fa-hand-o-right"></i> Blogs / music
+##### <i class="fa fa-hand-o-right"></i> Blogs / forum
 
 * [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [BR]
 * [Adrenaline](http://adrenaline.uol.com.br/){:target="_blank"}  [BR]
-* [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.com/){:target="_blank"}  [GR/EN]
-* [Mouxlaloulouda](http://mysteryfallsdown.blogspot.com/){:target="_blank"}  [GR/EN]
-* [Stenography of Emotion](http://bppremiera.blogspot.com/){:target="_blank"}  [EN]
+* [Reddit](https://www.reddit.com/){:target="_blank"}  [EN]
+* [Exploit Database](https://www.exploit-db.com/){:target="_blank"}  [EN]
+* [Black Hat](https://www.blackhat.com/){:target="_blank"}  [GR/EN]
 
 
 ##### <i class="fa fa-hand-o-right"></i> Tumblr
