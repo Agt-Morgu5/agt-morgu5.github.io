@@ -1,57 +1,66 @@
 ---
 layout: page
-title: About this blogbook
-excerpt: "About Aleh and the Micronaut"
-date: '2015-08-09T00:30:00+01:00'
+title: Sobre esse livro blog
+excerpt: "Morgu5 Blogbook"
+date: '2016-11-07T00:30:00+01:00'
 enable_chat: true
 ---
 
-Dearest visitor, welcome and thanks for being one,
+Caro viajante, seja bem vindo e obrigado pela visita,
 
-I'm a Micronaut and together with my buddy Aleh we are hereby sharing things about [music](/music){:target="_blank"},  [fiction](/stories){:target="_blank"} and sometimes about our [views and daily life](/blog){:target="_blank"}.  You will find content either in English or Greek, depending pretty much on our mood. You will not find much of photos or other sparkling visual pleasures (perhaps only some live concert photoshooting, or a picture if and when needed); the focus here is, therefore, mainly on thoughts and sounds. 
+Eu me chamo Olario e respondo também pelo codinome Morgu5, e nós compartilhamos coisas sobre [musica](/music){:target="_blank"},  [ficção](/stories){:target="_blank"} e as vezes nossas [visões e vida diária](/blog){:target="_blank"}.  Você encontrará conteúdo em português, inglês e simbologias, dependendo muito de nosso humor. Você não encontrará muitas fotos ou outros prazeres visuais cintilantes (talvez apenas algumas fotos de shows ao vivo, ou uma foto se e quando necessário); O foco aqui é, portanto, principalmente em pensamentos e sons.
 
-Aleh studied physics, electrical engineering, and medical informatics. Currently he earns his bread (mine as well) as software engineer in the Healthcare IT sector. But I guess this is not why you are here, is it? At least you will be frustrated to find only traces of technical topics, and always well woven in his stories. You see, Aleh prefers to write fictional stories, but alas his free time is little and precious. He is trying his best, though, for that I can tell.
+Morgu5 estudou física, engenharia, informática e filosofia. Atualmente, ele ganha seu pão (e meu também) como hacker autônomo. Mas acho que não é por isso que você está aqui, não é? Pelo menos você não ficará frustrado ao encontrar apenas traços de tópicos técnicos. . Morgu5 prefere escrever histórias de ficção, mas infelizmente seu tempo livre é pequeno e precioso. Ele está tentando seu melhor, porém isso são outras histórias que ganharão suas páginas em breve.
 
-As for myself the Micronaut, I sail the oceans of human minds but most of the time you will find me in the 4th dimension of music. I'm not able to identify a music genre that describes my tastes. Yet, I have a rather biased preference towards dark folk, dark/gothic rock & ambient sounds. Definitely I'm very fastidious when it comes to mainstream pop music, as much as Aleh is. In case you are interested in my music taste, you might better check our [last.fm](http://www.last.fm/user/AL3x4ndros){:target="_blank"} profile. I assume your first reaction is that  I'm a product of imagination. Maybe you are right dear visitor, but then again I would challenge you to amend your thoughts, as reality and imagination are just different projections of the same mind. The Kwoon's embedded song below narrates the story of my life...
+Quanto ao Olario, veleja os oceanos das mentes humanas, mas na maioria das vezes você vai me encontrar na 4ª dimensão da música. Não sou capaz de identificar um gênero de música que descreva meus gostos. No entanto, eu tenho uma preferência bastante tendenciosa para  rock progressivo com letras filosóficas, trilhas de terror e sons ambiente. Definitivamente eu sou muito exigente quando se trata de música, tanto quanto Morgu5 é.
 
-Regarding the deployment of this site, we chose one of the most promising blogging platforms to date, that is Jekyll on Github pages. We find it delightful to post simple text files instead of bulky database entries. The chosen theme is the ['So Simple Theme'](http://mademistakes.com/so-simple/){:target="_blank"} by designer slash illustrator [Michael Rose](http://mademistakes.com){:target="_blank"}. Michael has created an awesome yet simple theme, and he definitely deserves compliments for his work. 
+Quanto à implantação deste site, escolhemos uma das plataformas de blogs mais promissoras até à data atual, que é Jekyll em páginas Github. Achamos muito legal para postar arquivos de texto simples em vez de entradas de banco de dados volumosos. O tema escolhido é o ['So Simple Theme'](http://mademistakes.com/so-simple/){:target="_blank"} pelo designer e ilustrador [Michael Rose](http://mademistakes.com){:target="_blank"}. Michael criou um tema incrível ainda simples, e ele definitivamente merece elogios pelo seu trabalho.
 
-As a proper software engineer would do, Aleh has [modified](/theme-setup/#alehs-customizations) Michael's theme, in order to accommodate our needs. Among others, he incorporated the [responsive-timeline](https://github.com/brunodsgn/responsive-timeline){:target="_blank"} styles by Bruno Rodrigues (check [here](/music/new-albums-2015/){:target="_blank"}). Next to that, Aleh has been messing around with javascript (poor guy still struggling with it) to load certain type of content only when is supposed to be displayed in your browser; he did that to save your bandwidth in case you visit a page that happens to contain plenty of photos and iframes. Last but not least, you can spend some time in the [404](/404){:target="_blank"} page. You can find an (attempt for a) list of customizations in our [theme-setup](/theme-setup/#alehs-customizations) page.
+Como um hacker de software adequado faria, Morgu5 tem modificado o tema de Michael, a fim de acomodar as nossas necessidades. Entre outros, ele incorporou os estilos. Junto a isso, Morgu5 foi mexer com javascript (pobre cara ainda lutando com ele) para carregar certo tipo de conteúdo apenas quando deve ser exibido em seu navegador;
 
-If you wish to contact us, feel free to use one of the links at the bottom (footer).
+Se você deseja entrar em contato conosco, sinta-se a vontade para usar um dos links na parte inferior (rodapé).
 
-Welcome to our adventures. Have fun and respect others,<br/>
-Aleh & the Micronaut
+Bem-vindo às nossas aventuras. Divirta-se e respeite os outros, <br/>
+Olario
 
 <figure>
-    <iframe width="530" height="335" src="//www.youtube.com/embed/xTysF1E4Ft0?rel=0" frameborder="0" allowfullscreen>&nbsp;</iframe>	
-    <figcaption>Dear little lad<br/>
-Here's the story of my life<br/> 
-I lived on the moon (2x)<br/>
-Grey flying snakes along<br/>
-Mountains of destiny while<br/>
-the three tailed moneys<br/>
-were drawing the stars<br/>
-Light from the Sun<br/>
-and I hide myself<br/>
-on the dark side, alone<br/>
-I've run so far,<br/>
-to find my way<br/>
-Then I dream again.. alone<br/>
-<br/>
-Dear little boy, listen<br/>
-To voices of your soul<br/>
-It showed you the way of<br/>
-silence and peace<br/>
-Follow your thought and fly<br/>
-Choosing all the things<br/>
-that you desire<br/>
-Giant waves, fireflies..<br/>
-Your dream will be<br/>
-your only shell<br/>
-Your secrets,<br/>
-your hiding place, my son<br/>
-Don't let them try<br/>
-To crush your brain<br/>
-Let you go far ...my son</figcaption>
-</figure>
+    <iframe width="1280" height="720" src="https://www.youtube.com/embed/JwYX52BP2Sk" frameborder="0" allowfullscreen></iframe>
+    <figcaption>Time<br/>
+    Ticking away, the moments that make up a dull day<br/>
+    You fritter and waste the hours in an offhand way<br/>
+    Kicking around on a piece of ground in your home town<br/>
+    Waiting for someone or something to show you the way<br/>
+
+    Tired of lying in the sunshine<br/>
+    Staying home to watch the rain<br/>
+    You are young, and life is long<br/>
+    And there is time to kill today<br/>
+    And then one day, you find<br/>
+    Ten years have got behind you<br/>
+    No one told you when to run<br/>
+    You missed the starting gun<br/>
+
+    And you run and you run to catch up with the sun<br/>
+    But it's sinking<br/>
+    And racing around to come up behind you again<br/>
+    The sun is the same in a relative way<br/>
+    But you're older<br/>
+    Shorter of breath and one day closer to death<br/>
+
+    Every year is getting shorter<br/>
+    Never seem to find the time<br/>
+    Plans that either come to naught<br/>
+    Or half a page of scribbled lines<br/>
+    Hanging on in quiet desperation is the english way<br/>
+    The time has gone, the song is over<br/>
+    Thought I'd something more to say<br/>
+
+    Home, home again<br/>
+    I like to be here when I can<br/>
+    When I come home cold and tired<br/>
+    It's good to warm my bones beside the fire<br/>
+    Far away, across the field<br/>
+    The tolling of the iron bell<br/>
+    Calls the faithful to their knees<br/>
+    To hear the softly spoken magic spells</figcaption>
+    </figure>
