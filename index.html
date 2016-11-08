@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Latest Posts
-excerpt: "Micronaut's Blog Main Page"
+title: Ultimos posts
+excerpt: "Morgu5 main page"
 search_omit: true
 ---
 <ul class="post-list">
-{% for post in paginator.posts %} 
+{% for post in paginator.posts %}
   <li>
     <article>
 	  <a href="{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a>
@@ -36,7 +36,7 @@ search_omit: true
     <a href="{{ site.paginate_path | replace: ':num', page }}" class="btn non-selectable">{{ page }}</a>
   {% endif %}
   {% endfor %}
-  
+
   {% if paginator.next_page %}
     <a href="{{ paginator.next_page_path | replace: 'index.html', '/' | replace: '//', '/' }}" class="btn non-selectable">Page {{ paginator.next_page }}   <i class="fa fa-angle-double-right"></i></a>
   {% endif %}

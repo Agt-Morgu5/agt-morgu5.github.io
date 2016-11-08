@@ -1,13 +1,13 @@
 # Site wide configuration
 
-title: Micronaut's BlogBook
-locale: en_US
+title: Morgu5 BlogBook
+locale: pt_BR
 timezone: CET
-description: The chronicles of Aleh &amp; the Micronaut
+description: Dois mundos, dentro e fora da caverna.
 logo: site-logo.svg
 search: true
-url: http://themicronaut.github.io
-# common url for images and other external data  
+url: http://morgu5.xyz
+# common url for images and other external data
 external_data_url: https://raw.githubusercontent.com/TheMicronaut/blog-images-folder/master
 
 # Jekyll configuration
@@ -44,31 +44,31 @@ paginate_path: /posts/page:num
 
 # Site owner
 owner:
-  name: Aleh &amp; the Micronaut
+  name: Olario, the Morgu5
   avatar: site-logo.png
-  email: moonlight.fairytales@gmail.com
-  disqus-shortname: TheMicronaut
-  twitter: aleh_tunes
-  facebook: #username
-  github: TheMicronaut
+  email: agt-morgu5@gmail.com
+  disqus-shortname: Morgu5
+  twitter: @morgu5
+  facebook: OlarioBerwald
+  github: agt-morgu5
   stackexchange: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
-  instagram:
-    user: aleh.andro
-    userId: 612348438
-    clientId: b8457ffeaaa64dc0b6944495c1defb6d
+  linkedin: olarioberwald
+  instagram: https://www.instagram.com/morgu5izdead/?hl=pt-br
+    user: morgu5izdead
+    userId:
+    clientId:
   flickr: #username
-  tumblr: themicronaut
+  tumblr: #username
   pinterest: #username
   weibo: #userid
-  soundcloud: aleh_tunes
-  mixcloud: MoonlightFairyTales
+  soundcloud: #username
+  mixcloud: #username
   lastfm: #username
   tawkto:
-    siteID: 57dd49687d8c31174a0dc0b8
+    siteID: #username
   google:
     plus:
-    analytics: UA-54877893-1
+    analytics: #username
     verify:
     ad-client:
     ad-slot:
