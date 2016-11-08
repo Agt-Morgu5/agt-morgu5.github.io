@@ -1,25 +1,25 @@
 # Site navigation links
 
 - title: Main
-  url: /
+  url: http://morgu5.xyz
 
 - title: About
-  url: /about/
+  url: http://morgu5.xyz/about/
 
 - title: Blog
-  url: /blog/
+  url: http://morgu5.xyz/blog/
 
 - title: Music
-  url: /music/
-  
+  url: http://morgu5.xyz/music/
+
 - title: Stories
-  url: /stories/
+  url: http://morgu5.xyz/stories/
 
 - title: Tags
-  url: /tags/
+  url: http://morgu5.xyz/tags/
 
 - title: Links
-  url: /links/
+  url: http://morgu5.xyz/links/
 
 - title: Search
-  url: /search/
+  url: http://morgu5.xyz/search/
