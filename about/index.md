@@ -35,7 +35,7 @@ Olario Berwald
     <iframe width="640" height="360" src="https://www.youtube.com/embed/0SqFPNTBnv8" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
     <figcaption>Shine On You Crazy Diamond<br/>
-
+<br/>
     You reached for the secret too soon<br/>
     You cried for the moon<br/>
     Shine on you crazy diamond<br/>
