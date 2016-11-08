@@ -21,13 +21,13 @@ Certo dia o garoto em punho cerrado, em posição de decolagem, confiando plenam
 
 Aproveito para me apresentar um pouco melhor. Você já deve ter deduzido, meu nome é Olario, sou hacker e estudante autodidata. Por anos fui meu próprio professor.  Informação que desperta ternura. Ou pena. Para os que desconhecem o valor que existe no esforço. "Gosta do que além de computadores?" Ora, de várias coisas, mas de imediato posso citar musica, se fosse me aproximar de algo comum entre as pessoas. Não sou capaz de identificar um gênero de música que descreva meus gostos. No entanto, eu tenho uma preferência bastante tendenciosa para rock progressivo com letras filosóficas, trilhas de terror e sons ambiente. Definitivamente eu sou muito exigente quando se trata de música, tanto quanto Morgu5 é.
 
-Quanto à implantação deste site, escolhemos uma das plataformas de blogs mais promissoras até à data atual, que é Jekyll em páginas Github. O tema escolhido é o ['So Simple Theme'](http://mademistakes.com/so-simple/){:target="_blank"} feito pelo designer e ilustrador [Michael Rose](http://mademistakes.com){:target="_blank"}. Michael criou um tema incrível ainda simples, e ele definitivamente merece elogios pelo seu trabalho.
+<span class="dcap">Q</span>uanto à implantação deste site, escolhemos uma das plataformas de blogs mais promissoras até à data atual, que é Jekyll em páginas Github. O tema escolhido é o ['So Simple Theme'](http://mademistakes.com/so-simple/){:target="_blank"} feito pelo designer e ilustrador [Michael Rose](http://mademistakes.com){:target="_blank"}. Michael criou um tema incrível ainda simples, e ele definitivamente merece elogios pelo seu trabalho.
 
 Como um hacker de software qualquer faria, Morgu5 tem modificado o tema de Michael, a fim de acomodar as nossas necessidades. Entre outros, ele incorporou os estilos. Junto a isso, Morgu5 foi mexer com javascript (pobre cara ainda lutando com ele) para carregar algum conteúdo quando deve ser exibido em seu navegador;
 
-Se você deseja entrar em contato conosco, sinta-se a vontade para usar um dos links na parte inferior (rodapé).
+<span class="dcap">S</span>e você deseja entrar em contato conosco, sinta-se a vontade para usar um dos links na parte inferior (rodapé).
 
-Bem-vindo ao nosso universo. Não repare, a casa ainda está meio bagunçada por conta da construção deste blog. Divirta-se e respeite os outros;<br/>
+<span class="dcap">B</span>em-vindo ao nosso universo. Não repare, a casa ainda está meio bagunçada por conta da construção deste blog. Divirta-se e respeite os outros;<br/>
 Olario Berwald
 
 <figure>
