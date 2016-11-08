@@ -37,7 +37,7 @@ Se você deseja entrar em contato conosco, sinta-se a vontade para usar um dos l
 
 <span class="dcap">B</span>em-vindo ao nosso universo. Não repare, a casa ainda está meio bagunçada por conta da construção deste blog. Divirta-se e respeite os outros;<br/>
 
-Olario Berwald
+<center>Olario Berwald</center>
 
  <div class="text-divider"></div>
 <figure>
