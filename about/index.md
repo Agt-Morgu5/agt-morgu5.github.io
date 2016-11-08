@@ -24,8 +24,8 @@ Bem-vindo às nossas aventuras. Divirta-se e respeite os outros, <br/>
 Olario
 
 <figure>
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/JwYX52BP2Sk" frameborder="0" allowfullscreen></iframe>
-    <figcaption><br/>
+    <iframe width="530" height="335" src="https://www.youtube.com/embed/JwYX52BP2Sk" frameborder="0" allowfullscreen></iframe>
+    <figcaption>Time<br/>
 
 Tired of lying in the sunshine<br/>
 Staying home to watch the rain<br/>
