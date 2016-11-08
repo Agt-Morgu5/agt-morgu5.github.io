@@ -15,7 +15,7 @@ Aqui uma lista de links de sites, blogs, entre outros que visito para receber in
 ##### <i class="fa fa-hand-o-right"></i> Blogs / music
 
 * [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [BR]
-* [giveitaspin](http://www.giveitaspin.gr/){:target="_blank"}  [EN/GR]
+* [Adrenaline](http://adrenaline.uol.com.br/){:target="_blank"}  [BR]
 * [The Visitors are Pretty](http://thevisitorsarepretty.blogspot.com/){:target="_blank"}  [GR/EN]
 * [Mouxlaloulouda](http://mysteryfallsdown.blogspot.com/){:target="_blank"}  [GR/EN]
 * [Stenography of Emotion](http://bppremiera.blogspot.com/){:target="_blank"}  [EN]
