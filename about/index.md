@@ -44,11 +44,7 @@ Olario Berwald
     Shine on you crazy diamond<br/>
     Well you wore out your welcome<br/>
 <br/>
-    With random precision<br/>
-    Rode on the steel breeze<br/>
-    Come on, you raver, you seer of visions<br/>
-    Come on, you painter, you piper<br/>
-    You prisoner, and shine!<br/>
+    (...)
 <br/>
     Nobody knows where you are<br/>
     How near or how far<br/>
