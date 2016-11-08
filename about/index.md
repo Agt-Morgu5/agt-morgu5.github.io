@@ -25,8 +25,8 @@ Aproveito para me apresentar um pouco melhor. Você já deve ter deduzido, meu n
 
 Como um hacker de software qualquer faria, Morgu5 tem modificado o tema de Michael, a fim de acomodar as nossas necessidades. Entre outros, ele incorporou os estilos. Junto a isso, Morgu5 foi mexer com javascript (pobre cara ainda lutando com ele) para carregar algum conteúdo quando deve ser exibido em seu navegador;
 
-<span class="dcap">S</span>e você deseja entrar em contato conosco, sinta-se a vontade para usar um dos links na parte inferior (rodapé).
-<br/>
+<br><span class="dcap">S</span>e você deseja entrar em contato conosco, sinta-se a vontade para usar um dos links na parte inferior (rodapé).
+
 <br/>
 <span class="dcap">B</span>em-vindo ao nosso universo. Não repare, a casa ainda está meio bagunçada por conta da construção deste blog. Divirta-se e respeite os outros;<br/>
 Olario Berwald
