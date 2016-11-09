@@ -20,7 +20,7 @@ Aqui uma lista de links de sites, blogs, entre outros que visito para receber in
 * [Exploit Database](https://www.exploit-db.com/){:target="_blank"}  [EN]
 * [Black Hat](https://www.blackhat.com/){:target="_blank"}  [GR/EN]
 * [Armitage](http://www.fastandeasyhacking.com/){:target="_blank"} [EN]
-* [Asus ROG](http://rog.asus.com/landing.aspx){:target="_blank"} [EN/GLOBAL]
+* [Asus ROG](http://rog.asus.com/landing.aspx){:target="_blank"} [EN]
 
 
 ##### <i class="fa fa-hand-o-right"></i> Musica
@@ -32,14 +32,14 @@ Aqui uma lista de links de sites, blogs, entre outros que visito para receber in
 
 ##### <i class="fa fa-hand-o-right"></i> YouTube channels
 
-* [Computerphile](https://www.youtube.com/user/Computerphile){:target="_blank"}
-* [Alevizon](https://www.youtube.com/channel/UCDUmKobggGUPVz6A8x2qGdg){:target="_blank"}
-* [Anna Konda](https://www.youtube.com/channel/UCRwxlqapFLv9EIrzOQ0aN1g){:target="_blank"}
-* [Mystery Heaven](https://www.youtube.com/channel/UChzWjhoTgEQ-ZS5XgOPqh_w){:target="_blank"}
-* [4amorningSound](https://www.youtube.com/channel/UCFrs8JxdLeShe70zNK1Mh6w){:target="_blank"}
-* [Giorgos Kormikiaris](https://www.youtube.com/channel/UCfG0OT2N2yi9bSBBrMAK2QQ){:target="_blank"}
-* [AnaStasia Andreadou](https://www.youtube.com/channel/UCGJY9mpHcjJzuysndfP2oyw){:target="_blank"}
-* [giveitaspinGR](https://www.youtube.com/channel/UCwbpco8zYrok1i6zxGqkyEg){:target="_blank"}
-* [artmaniac53](https://www.youtube.com/channel/UCeI2O8GIPsjdI8pWyic-Xww){:target="_blank"}
-* [Medusatrip~](https://www.youtube.com/channel/UCAjayTXVwboR6dAt1Ev2yFA){:target="_blank"}
-* [PolllkaAA](https://www.youtube.com/channel/UCExkJGfeeMmJvjmC_Eajt1Q){:target="_blank"}
+* [Computerphile](https://www.youtube.com/user/Computerphile){:target="_blank"} [EN]
+* [AWE me](https://www.youtube.com/user/AweMeChannel){:target="_blank"} [EN]
+* [Saber Filosófico](https://www.youtube.com/channel/UCWdXgfpEIZIGzah9_yCL-Xw){:target="_blank"} [BR]
+* [Canal do Pirula](https://www.youtube.com/channel/UCdGpd0gNn38UKwoncZd9rmA){:target="_blank"} [BR]
+* [Udacity](https://www.youtube.com/user/Udacity){:target="_blank"} [EN]
+* [Vsauce](https://www.youtube.com/user/Vsauce){:target="_blank"} [EN]
+* [Stan Winston School](https://www.youtube.com/user/StanWinstonSchool){:target="_blank"} [EN]
+* [MIT OpenCourseWare](https://www.youtube.com/user/MIT){:target="_blank"} [EN]
+* [Nerdologia](https://www.youtube.com/user/nerdologia){:target="_blank"} [BR]
+* [Jovem Nerd](https://www.youtube.com/user/JovemNerd){:target="_blank"} [BR]
+* [MinutePhysics](https://www.youtube.com/user/minutephysics){:target="_blank"} [EN]
