@@ -10,7 +10,7 @@ enable_chat: true
     <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
 </figure>
 
-Aqui uma lista de links de sites, blogs, entre outros que visito para receber inspiração.
+<span class="dcap">A</span>qui uma lista de links de sites, blogs, entre outros que visito para receber inspiração.
 
 ##### <i class="fa fa-hand-o-right"></i> Blogs / forum / sites
 
