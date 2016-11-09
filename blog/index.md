@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Views & other blog posts
-excerpt: "An archive of blog posts sorted by date."
+title: Visualizações & outras postagens no blog.
+excerpt: "Um arquivo de postagens de blogs classificadas por data."
 hidelogo: true
 search_omit: true
 ---
