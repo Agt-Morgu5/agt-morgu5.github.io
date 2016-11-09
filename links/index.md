@@ -12,7 +12,7 @@ enable_chat: true
 
 Aqui uma lista de links de sites, blogs, entre outros que visito para receber inspiração.
 
-##### <i class="fa fa-hand-o-right"></i> Blogs / forum
+##### <i class="fa fa-hand-o-right"></i> Blogs / forum / sites
 
 * [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [BR]
 * [Adrenaline](http://adrenaline.uol.com.br/){:target="_blank"}  [BR]
