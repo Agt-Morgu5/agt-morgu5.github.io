@@ -27,6 +27,7 @@ enable_chat: true
 
 * [Last FM](http://www.last.fm/pt/){:target="_blank"} [BR]
 * [ESP Guitars](http://www.espguitars.com/){:target="_blank"} [EN]
+* [Mix Cloud](https://www.mixcloud.com/Morgu5/){:target="_blank"} [BR]
 * [Iron Maiden](http://ironmaiden.com/){:target="_blank"} [GR/EN]
 
 
