@@ -13,7 +13,7 @@ Eu me chamo Olario e respondo também pelo codinome Morgu5 [<i>morgus, morgu "fi
 
 <span class="dcap">M</span>orgu5 estudou física, engenharia, informática e filosofia. Atualmente, ele ganha seu pão (e meu também) como hacker autônomo. Assim nos resta deduzir suas motivações a ler este conteúdo caro leitor. No entanto, não irá te deparar com posts técnicos. Morgu5 prefere escrever histórias de ficção, mas infelizmente seu tempo livre é pequeno e precioso. Ele está tentando o seu melhor, porém essa é outra história que poderá ganhar as páginas deste blog, ou não. Se os dados derem sorte o resultado é decomposto em binário. Se não há obviamente, soma de zeros, resta a contagem deles e seu estado específico, que irão determinar o acesso a estas informações. Aqueça bem os punhos e reúna seu conjunto de dados de RPG; apresento-lhes Morgu5, o mundo dos interiores das cavernas do universo.
 
-Os temas "noir" são viagens e fantasias vividas por ele. Morgu5 é uma espécie de entidade antiga, e muito pouco explorado ainda. Ele tem sua própria personalidade metodologia, linguagem e simbologias. Daqui surgem as histórias mais agressivas com tons de hacker controverso navegando em mundos do cotidiano, as profundezas de surtos psíquicos e abalos sísmicos em cidades steampunk.
+Os temas "noir" são viagens e fantasias vividas por ele. Morgu5 é uma espécie de entidade antiga, e muito pouco explorado ainda. Ele tem sua própria personalidade, metodologia, linguagem e simbologias. Daqui surgem as histórias mais agressivas com tons de hacker controverso (<i>Black Hat</i>), navegando em mundos do cotidiano as profundezas de surtos psíquicos e abalos sísmicos em cidades steampunk.
 
  <div class="text-divider"></div>
 
