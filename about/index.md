@@ -22,7 +22,7 @@ Os temas "noir" são viagens e fantasias vividas por ele. Morgu5 é uma espécie
 
 Certo dia o garoto em punho cerrado, em posição de decolagem, confiando plenamente que seu cobertor preso ao pescoço o faria voar, se lançou terreno abaixo (...)"
 
-"Por quase meio segundo tive a sensação; mas não. O restante em diante foram lágrimas de dor e curativos, (naquela época o antisséptico causava certa irritação) por toda parte. Não teve jeito. Entre a vocação de herói que me proporcionou tantos afetos, só me restaram os computadores."
+"Por quase meio segundo tive a sensação; mas não. O restante em diante foram lágrimas de dor, um certo pânico, soluços e curativos, (naquela época o antisséptico causava certa irritação) por toda parte. Não teve jeito. Entre a vocação de herói que me proporcionou tantos afetos, só me restaram os computadores."
 
 <div class="central-quote">"Quebrando coisas". Desde cedo o entusiasmo pelo hardware.</div>
 
