@@ -18,7 +18,7 @@ Os temas "noir" são viagens e fantasias vividas por ele. Morgu5 é uma espécie
 
  <div class="text-divider"></div>
 
-<span class="dcap">Q</span>uanto ao Olario, vejamos... aquele garoto! Sim, lembro dele. Passava os dias de super herói em um quintal íngreme na casa de seus avós. Era determinado, encarnava mesmo o personagem. Parecia mesmo ser o super herói da TV, com todos aqueles poderes, quebrando coisas."
+<span class="dcap">Q</span>uanto ao Olario, vejamos... aquele garoto! Sim, lembro dele. Passava os dias brincando de super herói, em um quintal íngreme em frente casa de seus avós. Era determinado, encarnava mesmo o personagem. Parecia mesmo ser o super herói da TV, com todos aqueles poderes, quebrando coisas."
 
 Certo dia o garoto em punho cerrado, em posição de decolagem, confiando plenamente que seu cobertor preso ao pescoço o faria voar, se lançou terreno abaixo (...)"
 
