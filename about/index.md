@@ -20,7 +20,7 @@ Os temas "noir" são viagens e fantasias vividas por ele. Morgu5 é uma espécie
 
 <span class="dcap">Q</span>uanto ao Olario, vejamos... aquele garoto! Sim, lembro dele. Passava os dias brincando de super herói, em um quintal íngreme em frente casa de seus avós. Era determinado, encarnava mesmo o personagem. Parecia mesmo ser o super herói da TV, com todos aqueles poderes, quebrando coisas."
 
-Certo dia o garoto em punho cerrado, em posição de decolagem, confiando plenamente que seu cobertor preso ao pescoço o faria voar, se lançou terreno abaixo (...)"
+Certo dia o garoto em punho cerrado, em posição de decolagem, confiando plenamente que seu cobertor preso ao pescoço o faria voar, se lançou terreno abaixo. (...)
 
 "Por quase meio segundo tive a sensação; mas não. O restante em diante foram lágrimas de dor, um certo pânico, soluços e curativos, (naquela época o antisséptico causava certa irritação) por toda parte. Não teve jeito. Entre a vocação de herói que me proporcionou tantos afetos, só me restaram os computadores."
 
