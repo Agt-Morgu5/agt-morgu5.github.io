@@ -28,6 +28,7 @@ enable_chat: true
 * [Armitage](http://www.fastandeasyhacking.com/){:target="_blank"} [EN]
 * [Green Hat World](http://greenhatworld.com/){:target="_blank"}  [EN]
 * [Asus ROG](http://rog.asus.com/landing.aspx){:target="_blank"} [EN]
+* [Wired - Gray Hacking](https://www.wired.com/2016/04/hacker-lexicon-white-hat-gray-hat-black-hat-hackers/){:target="_blank"}  [EN]
 
 
 ##### <i class="fa fa-hand-o-right"></i> Musica
