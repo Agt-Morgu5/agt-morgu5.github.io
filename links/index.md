@@ -42,7 +42,7 @@ enable_chat: true
 * [Metallica](https://metallica.com/){:target="_blank"} [EN]
 * [Discogs](https://www.discogs.com/){:target="_blank"} [EN]
 * [Sepultura](http://www.sepultura.com.br/){:target="_blank"} [EN/BR]
-
+* [Nuclear Blast](http://www.nuclearblast.de/de/){:target="_blank"} [EN/BR]
 
 ##### <i class="fa fa-hand-o-right"></i> YouTube channels
 
