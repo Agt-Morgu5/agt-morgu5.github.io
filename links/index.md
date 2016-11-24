@@ -33,6 +33,7 @@ enable_chat: true
 * [Forbes](http://www.forbes.com/forbes/welcome/?toURL=http://www.forbes.com/forbes/&refURL=&referrer=){:target="_blank"} [EN]
 * [CRN](http://www.crn.com/slide-shows/data-center/300082800/the-2016-tech-innovator-awards.htm){:target="_blank"} [EN]
 * [PC World](http://www.pcworld.com/){:target="_blank"} [EN/BR]
+* [malwarebytes](https://www.malwarebytes.com/business/){:target="_blank"} [EN]
 
 ##### <i class="fa fa-hand-o-right"></i> Musica
 
