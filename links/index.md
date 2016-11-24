@@ -26,7 +26,7 @@ enable_chat: true
 * [Exploit Database](https://www.exploit-db.com/){:target="_blank"}  [EN]
 * [Red Hat](https://www.redhat.com/pt-br){:target="_blank"}  [PT/EN]
 * [Armitage](http://www.fastandeasyhacking.com/){:target="_blank"} [EN]
-* [Green Hat](http://greenhatworld.com/){:target="_blank"}  [EN]
+* [Green Hat World](http://greenhatworld.com/){:target="_blank"}  [EN]
 * [Asus ROG](http://rog.asus.com/landing.aspx){:target="_blank"} [EN]
 
 
