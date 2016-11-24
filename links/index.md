@@ -37,7 +37,8 @@ enable_chat: true
 * [ESP Guitars](http://www.espguitars.com/){:target="_blank"} [EN]
 * [Mix Cloud](https://www.mixcloud.com/){:target="_blank"} [EG/BR]
 * [Iron Maiden](http://ironmaiden.com/){:target="_blank"} [GR/EN]
-
+* [The Who](https://www.thewho.com/){:target="_blank"} [GR/EN]
+* [Pink Floyd](http://www.pinkfloyd.com/){:target="_blank"} [GR/EN]
 
 ##### <i class="fa fa-hand-o-right"></i> YouTube channels
 
