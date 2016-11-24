@@ -20,9 +20,11 @@ enable_chat: true
 * [Kojima Productions](http://www.kojimaproductions.jp/en/){:target="_blank"}  [EN/JP]
 * [Metal Gear Portal Site](http://www.konami.jp/mgs_portal/jp/){:target="_blank"}  [EN/JP]
 * [Adrenaline](http://adrenaline.uol.com.br/){:target="_blank"}  [BR]
-* [Reddit](https://www.reddit.com/){:target="_blank"}  [EN]
-* [Exploit Database](https://www.exploit-db.com/){:target="_blank"}  [EN]
 * [Black Hat](https://www.blackhat.com/){:target="_blank"}  [GR/EN]
+* [Reddit](https://www.reddit.com/){:target="_blank"}  [EN]
+* [PC Mods](http://pcjunkiemods.com/?page_id=220){:target="_blank"}  [EN]
+* [Exploit Database](https://www.exploit-db.com/){:target="_blank"}  [EN]
+* [Red Hat](https://www.redhat.com/pt-br){:target="_blank"}  [PT/EN]
 * [Armitage](http://www.fastandeasyhacking.com/){:target="_blank"} [EN]
 * [Asus ROG](http://rog.asus.com/landing.aspx){:target="_blank"} [EN]
 
