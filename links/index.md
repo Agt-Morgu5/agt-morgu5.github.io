@@ -29,7 +29,10 @@ enable_chat: true
 * [Green Hat World](http://greenhatworld.com/){:target="_blank"}  [EN]
 * [Asus ROG](http://rog.asus.com/landing.aspx){:target="_blank"} [EN]
 * [Wired - Gray Hacking](https://www.wired.com/2016/04/hacker-lexicon-white-hat-gray-hat-black-hat-hackers/){:target="_blank"}  [EN]
-
+* [Technologyreview](https://www.technologyreview.com/){:target="_blank"} [EN]
+* [Forbes](http://www.forbes.com/forbes/welcome/?toURL=http://www.forbes.com/forbes/&refURL=&referrer=){:target="_blank"} [EN]
+* [CRN](http://www.crn.com/slide-shows/data-center/300082800/the-2016-tech-innovator-awards.htm){:target="_blank"} [EN]
+* [PC World](http://www.pcworld.com/){:target="_blank"} [EN/BR]
 
 ##### <i class="fa fa-hand-o-right"></i> Musica
 
