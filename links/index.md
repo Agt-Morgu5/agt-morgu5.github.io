@@ -41,6 +41,8 @@ enable_chat: true
 * [Pink Floyd](http://www.pinkfloyd.com/){:target="_blank"} [GR/EN]
 * [Metallica](https://metallica.com/){:target="_blank"} [EN]
 * [Discogs](https://www.discogs.com/){:target="_blank"} [EN]
+* [Sepultura](http://www.sepultura.com.br/){:target="_blank"} [EN/BR]
+
 
 ##### <i class="fa fa-hand-o-right"></i> YouTube channels
 
