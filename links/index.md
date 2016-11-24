@@ -14,6 +14,7 @@ enable_chat: true
 
 ##### <i class="fa fa-hand-o-right"></i> Blogs / forum / sites
 
+* [MinamiNoTaniDojo](https://www.facebook.com/MinamiNoTaniDojo/?pnref=story){:target="_blank"}  [BR]
 * [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [BR]
 * [Adrenaline](http://adrenaline.uol.com.br/){:target="_blank"}  [BR]
 * [Reddit](https://www.reddit.com/){:target="_blank"}  [EN]
