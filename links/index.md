@@ -16,6 +16,7 @@ enable_chat: true
 
 * [MinamiNoTaniDojo](https://www.facebook.com/MinamiNoTaniDojo/?pnref=story){:target="_blank"}  [BR]
 * [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [BR]
+* [Blog do Jotace](http://bjc.uol.com.br/){:target="_blank"}  [BR]
 * [Adrenaline](http://adrenaline.uol.com.br/){:target="_blank"}  [BR]
 * [Reddit](https://www.reddit.com/){:target="_blank"}  [EN]
 * [Exploit Database](https://www.exploit-db.com/){:target="_blank"}  [EN]
