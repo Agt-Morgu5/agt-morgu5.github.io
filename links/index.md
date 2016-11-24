@@ -17,6 +17,7 @@ enable_chat: true
 * [MinamiNoTaniDojo](https://www.facebook.com/MinamiNoTaniDojo/?pnref=story){:target="_blank"}  [BR]
 * [Jovem Nerd](https://jovemnerd.com.br/){:target="_blank"}  [BR]
 * [Blog do Jotace](http://bjc.uol.com.br/){:target="_blank"}  [BR]
+* [Kojima Productions](http://www.kojimaproductions.jp/en/){:target="_blank"}  [EN/JP]
 * [Metal Gear Portal Site](http://www.konami.jp/mgs_portal/jp/){:target="_blank"}  [EN/JP]
 * [Adrenaline](http://adrenaline.uol.com.br/){:target="_blank"}  [BR]
 * [Reddit](https://www.reddit.com/){:target="_blank"}  [EN]
