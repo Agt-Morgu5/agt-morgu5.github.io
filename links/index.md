@@ -39,6 +39,8 @@ enable_chat: true
 * [Iron Maiden](http://ironmaiden.com/){:target="_blank"} [GR/EN]
 * [The Who](https://www.thewho.com/){:target="_blank"} [GR/EN]
 * [Pink Floyd](http://www.pinkfloyd.com/){:target="_blank"} [GR/EN]
+* [Metallica](https://metallica.com/){:target="_blank"} [EN]
+* [Discogs](https://www.discogs.com/){:target="_blank"} [EN]
 
 ##### <i class="fa fa-hand-o-right"></i> YouTube channels
 
