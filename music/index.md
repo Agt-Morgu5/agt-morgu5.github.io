@@ -6,7 +6,7 @@ hidelogo: true
 search_omit: true
 ---
 <figure>
-    <img src="http://i.giphy.com/l2SpZvhMicR8zUhxe.gif" alt="dancing-man-image" class="center non-selectable" width="40%"/>
+    <img src="http://i.giphy.com/3o72EX5QZ9N9d51dqo.gif" alt="dancing-man-image" class="center non-selectable" width="40%"/>
 </figure>
 <div class="no-print pull-right quote-text"><i class="fa fa-rss"></i> <a href="/feed.music.xml" target="_blank">music feed</a></div><br/>
 
