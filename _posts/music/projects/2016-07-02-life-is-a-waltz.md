@@ -26,6 +26,3 @@ image:
 
 Here is the complete list so far.(ou não) Enjoy!
 
-
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/4AKbUm8GrbM" frameborder="0" allowfullscreen></iframe>
