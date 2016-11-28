@@ -6,7 +6,7 @@ hidelogo: true
 search_omit: true
 ---
 <figure>
-    <img src="http://i.giphy.com/Ol2yHMEFJdYEo.gif" alt="reading-man-image" class="center non-selectable" width="70%"/>
+    <img src="http://i.giphy.com/Ol2yHMEFJdYEo.gif" alt="reading-man-image" class="center non-selectable" width="50%"/>
 </figure>
 <div class="no-print pull-right quote-text"><i class="fa fa-rss"></i> <a href="/feed.stories.xml" target="_blank">stories feed</a></div><br/>
 
