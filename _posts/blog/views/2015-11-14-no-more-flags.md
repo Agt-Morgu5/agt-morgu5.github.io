@@ -8,7 +8,7 @@ title: 'Sem mais bandeiras...'
 date: '2015-11-14T18:50:00+01:00'
 modified: '2015-11-15T12:42:00+01:00'
 tags: [zeitgeist]
-author: Aleh
+author: Morgu5
 ---
 Logo terá algo legal aqui...
 
