@@ -7,7 +7,7 @@ hidelogo: true
 enable_chat: true
 ---
 <figure>
-    <img src="/images/connected.gif" alt="connected-image" class="center non-selectable"/>
+    <img src="http://i.giphy.com/GeIFliUGx6lW0.gif" alt="connected-image" class="center non-selectable"/>
 </figure>
 
 <span class="dcap">A</span>qui uma lista de links de sites, blogs, entre outros que visito para receber inspiração.
