@@ -14,13 +14,12 @@ image:
   feature: posts/RobertCapa-WomenDancingInTheStreetsOfMoscow-1947.jpg
   credit: Women dancing in the streets of Moscow in 1947, by Robert Capa. 
 ---
-For every moment in life, there is a waltz; and every waltz incarnates an entire life. The odd numbered 3/4 (and its compound 6/8) rhythm is more suited for dance rather than marching, and perhaps there hides its magic.
 
 "Logo terá algo por aqui também. 
 
 <div class="invisible no-print">
 <figure>
-	<iframe width="90%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/4pyFvguXQV0" frameborder="0">&nbsp;</iframe>
+	<iframe width="90%" height="320" src="about:blank" data-src="https://www.youtube.com/watch?v=4AKbUm8GrbM" frameborder="0">&nbsp;</iframe>
 	<figcaption>Dance in the squares, there is no other way.</figcaption>
 </figure>
 </div>
