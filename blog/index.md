@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Visualizações & outras postagens no blog.
+title: Visualizações & postagens no blogbook.
 excerpt: "Um arquivo de postagens de blogs classificadas por data."
 hidelogo: true
 search_omit: true
