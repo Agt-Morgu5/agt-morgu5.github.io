@@ -19,10 +19,13 @@ image:
 
 <div class="invisible no-print">
 <figure>
-	<iframe width="90%" height="320" src="about:blank" data-src="https://www.youtube.com/watch?v=4AKbUm8GrbM" frameborder="0">&nbsp;</iframe>
+	<iframe width="1280" height="720" src="https://www.youtube.com/embed/4AKbUm8GrbM" frameborder="0" allowfullscreen></iframe>
 	<figcaption>Dance in the squares, there is no other way.</figcaption>
 </figure>
 </div>
 
 Here is the complete list so far.(ou não) Enjoy!
 
+
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/4AKbUm8GrbM" frameborder="0" allowfullscreen></iframe>
