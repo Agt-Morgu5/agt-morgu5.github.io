@@ -6,7 +6,7 @@ hidelogo: true
 search_omit: true
 ---
 <figure>
-    <img src="https://i.giphy.com/3oEduIMgzI1StP2UaQ.gif" alt="pen-hand-image" class="center non-selectable"/>
+    <img src="http://i.giphy.com/DeimTxk5sXoMU.gif" alt="pen-hand-image" class="center non-selectable"/>
 </figure>
 <div class="no-print pull-right quote-text"><i class="fa fa-rss"></i> <a href="/feed.blog.xml" target="_blank">blog feed</a></div><br/>
 
