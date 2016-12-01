@@ -6,7 +6,7 @@ timezone: CET
 description: Dois mundos; dentro e fora da caverna.
 logo: site-logo.svg
 search: true
-url: http://morgu5.xyz
+url: http://agt-morgu5.github.io
 # common url for images and other external data
 external_data_url: https://raw.githubusercontent.com/TheMicronaut/blog-images-folder/master
 
