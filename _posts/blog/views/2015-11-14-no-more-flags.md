@@ -3,14 +3,14 @@ layout: post
 categories: [blog, views]
 share: true
 comments: true
-title: 'Sem mais bandeiras...'
+title: 'Capítulo I: Nomad'
 #excerpt: ""
 date: '2015-11-14T18:50:00+01:00'
 modified: '2015-11-15T12:42:00+01:00'
 tags: [zeitgeist]
 author: Morgu5
 ---
-Logo terá algo legal aqui...
+Em breve o capítulo será postado aqui...
 
 <iframe class="invisible center" width="70%" height="320" src="about:blank" data-src="https://www.youtube.com/embed/09IRZrL8ZBQ" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
