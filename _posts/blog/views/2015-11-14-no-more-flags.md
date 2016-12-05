@@ -16,7 +16,7 @@ Era apenas um garoto ambulante arrastando um saco batido pelo tempo de brinquedo
 
 
 <figure>
-    <iframe width="640" height="360" src="https://www.youtube.com/watch?v=vOr_1xSvglI&list=PLstXdGXEYegcaaUpR6or5rTzPrbzdQGxU&index=6" frameborder="0" allowfullscreen>&nbsp;</iframe>
+    <iframe width="640" height="360" src="https://www.youtube.com/watch?v=vOr_1xSvglI" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
 <div class="central-quote">
 Em breve (soon)<br/>
