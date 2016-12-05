@@ -16,25 +16,29 @@ Era apenas um garoto ambulante arrastando um saco batido pelo tempo de brinquedo
 
  <div class="text-divider"></div>
 <figure>
-    <iframe width="640" height="360" src="https://www.youtube.com/embed/0SqFPNTBnv8" frameborder="0" allowfullscreen>&nbsp;</iframe>
+    <iframe width="640" height="360" src="https://www.youtube.com/watch?v=7XmDYJBZZdc" frameborder="0" allowfullscreen>&nbsp;</iframe>
 
     <figcaption>Shine On You Crazy Diamond<br/>
 <br/>
-    You reached for the secret too soon<br/>
-    You cried for the moon<br/>
-    Shine on you crazy diamond<br/>
-    Threatened by shadows at night<br/>
-    And exposed to the light<br/>
-    Shine on you crazy diamond<br/>
-    Well you wore out your welcome<br/>
+    Standing on the edge of the crater<br/>
+    Like the prophets once said<br/>
+    And the ashes are all cold now<br/>
+    No more bullets and the embers are dead<br/>
+    Whispers in the air tell the tales<br/>
+    Of the brothers gone<br/>
+    Desolation<br/>
+    Devastation<br/>
+    What a mess we made<br/>
+    When it all went wrong<br/>
 <br/>
     (...)
 <br/>
-    Nobody knows where you are<br/>
-    How near or how far<br/>
-    Shine on, you crazy diamond<br/>
-    Pile on many more layers<br/>
-    And I'll be joining you there<br/>
-    Shine on, you crazy diamond</figcaption>
+    I'm nuclear<br/>
+    I'm wild<br/>
+    I'm breaking up inside<br/>
+    A heart of broken glass<br/>
+    Defiled<br/>
+    Deep inside<br/>
+    The abandoned child</figcaption>
     </figure>
 
