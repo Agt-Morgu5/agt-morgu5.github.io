@@ -5,9 +5,9 @@ share: true
 comments: true
 title: 'Capítulo I: Nomad'
 #excerpt: ""
-date: '2015-11-14T18:50:00+01:00'
-modified: '2015-11-15T12:42:00+01:00'
-tags: [zeitgeist]
+date: '2016-12-04T18:50:00+01:00'
+modified: '2016-12-04T12:42:00+01:00'
+tags: [brinquedos]
 author: Morgu5
 ---
 Vejo-me obrigado a por em linhas o que  todos os homens que cruzaram, por algum motivo infeliz o caminho deste que vos escreve. De má vontade junto trechos de histórias pouco contadas por pessoas desagradáveis. Digo pois o colarinho justo me aperta e sinto-me estaguinado nas sombras de outras figuras mais “capazes”, quando na verdade não passam de meros mortais construindo seus castelos de cartas, aos quais uma simples brisa lhe tiro toda segurança e encantamento, e sem nenhum desafio aos olhos da criatura cibernética, se torna trivial a “quebra” de qualquer método falho de segurança.
