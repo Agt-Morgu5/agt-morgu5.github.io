@@ -11,7 +11,7 @@ tags: [mixcloud, playlist, soundscape, waltz]
 author: Morgu5
 hidelogo: false
 image:
-  feature: posts/RobertCapa-WomenDancingInTheStreetsOfMoscow-1947.jpg
+  feature: posts/wallhaven-3347.jpg
   credit: Women dancing in the streets of Moscow in 1947, by Robert Capa. 
 ---
 
