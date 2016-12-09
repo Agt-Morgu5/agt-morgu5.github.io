@@ -11,7 +11,7 @@ tags: [mixcloud, playlist, soundscape, waltz]
 author: Morgu5
 hidelogo: false
 image:
-  feature: posts/wallhaven-3347.jpg
+  feature: 
   credit: Wallhaven. 
   
 <span class="dcap"></span><i>Existe um ditado.</i>
@@ -56,10 +56,7 @@ que eu dure isso tudo.</i>
 <i>Eu sei o que está em jogo.</i>
  <div class="text-divider"></div>
 <div class="invisible no-print">
-<figure>
-	<iframe width="1280" height="720" src="https://www.youtube.com/embed/4AKbUm8GrbM" frameborder="0" allowfullscreen></iframe>
-</figure>
 </div>
 
-Here is the complete list so far.(ou não) Enjoy!
+
 
