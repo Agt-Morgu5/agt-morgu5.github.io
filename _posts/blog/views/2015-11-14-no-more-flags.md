@@ -14,6 +14,8 @@ author: Morgu5
 
 Era apenas um garoto ambulante arrastando um saco batido pelo tempo de brinquedos velhos, sujos, quebrados e esquecidos, procurando algum sentido no ["O fim de quase todas as coisas"](https://tipoquarentaedois.blogspot.com.br/2013/11/o-fim-de-quase-todas-as-coisas-abu.html){:target="_blank"}, um conto escrito por alguém muito importante; e por ter feito tais estragos. Seu olhar era um azul gélido, e poderia jurar que até o ar em sua volta acompanhava essa pequena variação de temperatura, procurando algum sentido em tais estragos. Seu olhar também era por horas raivoso e brilhante como esmeraldas dentro de um cão, que apanhava sem quaisquer motivos, ao qual indicava uma rotina de tortura por algo que deixara de fazer. Geralmente alguma obrigação doméstica, ou a falta de compromisso com a alimentação de alguma das feras da propriedade. Que fora tão fiel como ouvinte, como saco de pancadas, sempre mudo engolindo as próprias lágrimas, as quais já tinham um desvio de rota como padrão, escorriam de um sabor metálico ao seu estômago, ao invés de aliviar a pressão de tantos medos de seu pequeno coração.
 
+<div class="text-divider"></div>
+
 <span class="dcap">E</span><i>xiste um ditado. "O diabo fica mais forte, quando estamos olhando para o outro lado. Como um programa rodando silenciosamente ao fundo. Enquanto estamos ocupados fazendo outras coisas. Ele os chamam de daemons. Eles agem
 sem interação do usuário. Monitoram, registram, notificam. Instintos primitivos, lembranças reprimidas, hábitos inconscientes. Eles sempre estão lá. Sempre ativos. Você pode tentar ser correto. Pode tentar ser bom. Pode tentar fazer a diferença. Mas é tudo besteira. As intenções dele são irrelevantes. Elas não nos guia. Deamons sim. E eu? Tenho mais do que a maioria. Hipersensibilidade
 ao brilho e som. Após isso, uma intensa paranoia, seguida de uma depressão sombria. Os sintomas podem persistir por duas semanas considerando que eu dure isso tudo. Eu sei o que está em jogo.</i> Credits Mr. Robot tv show.
@@ -50,10 +52,3 @@ ao brilho e som. Após isso, uma intensa paranoia, seguida de uma depressão som
     Deep inside<br/>
     The abandoned child</figcaption>
     </figure>
-
-
-<div class="text-divider"></div>
-<div class="invisible no-print">
-</div>
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/eYA8JqKuUvo" frameborder="0" allowfullscreen></iframe>
