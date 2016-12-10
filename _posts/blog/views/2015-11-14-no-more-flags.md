@@ -4,7 +4,6 @@ categories: [blog, views]
 share: true
 comments: true
 title: 'Capítulo I: Nomad'
-#excerpt: ""
 date: '2016-12-04T18:50:00+01:00'
 modified: '2016-12-06T09:52:00+01:00'
 tags:[Toys]
