@@ -18,7 +18,6 @@ ao brilho e som. Após isso, uma intensa paranoia, seguida de uma depressão som
 Credits Mr. Robot tv show.
 <div class="central-quote">"Soon"</div>
 <div class="text-divider"></div>
-<div class="text-divider"></div>
 <div class="invisible no-print">
 </div>
 
