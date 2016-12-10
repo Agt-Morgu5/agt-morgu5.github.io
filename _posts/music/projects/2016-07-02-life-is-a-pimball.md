@@ -18,6 +18,3 @@ ao brilho e som. Após isso, uma intensa paranoia, seguida de uma depressão som
 </div>
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/eYA8JqKuUvo" frameborder="0" allowfullscreen></iframe>
-
-
-
