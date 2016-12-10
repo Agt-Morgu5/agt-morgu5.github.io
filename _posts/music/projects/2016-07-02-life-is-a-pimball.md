@@ -7,7 +7,7 @@ title: 'Life is a Pimball'
 #excerpt: 'xxx'
 date: '2016-07-02T12:58:00+01:00'
 modified: '2016-09-08T19:14:00+02:00'
-tags: [mixcloud, playlist, soundscape, waltz]
+tags: [hacker, hack, daemons]
 author: Morgu5
 hidelogo: false
 image:
