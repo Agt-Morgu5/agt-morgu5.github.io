@@ -29,29 +29,3 @@ author: Morgu5
 <figure>   
    
     
-    <figcaption>Mike Oldfield - [Nuclear]<br/>
-<br/>
-    Standing on the edge of the crater<br/>
-    Like the prophets once said<br/>
-    And the ashes are all cold now<br/>
-    No more bullets and the embers are dead<br/>
-    Whispers in the air tell the tales<br/>
-    Of the brothers gone<br/>
-    Desolation<br/>
-    Devastation<br/>
-    What a mess we made<br/>
-    When it all went wrong<br/>
-<br/>
-    Watching from the edge of the circus<br/>
-    For the games to begin<br/>
-    Gladiators draw their swords<br/>
-    Form their ranks for armageddon<br/>
-<br/>
-    I'm nuclear<br/>
-    I'm wild<br/>
-    I'm breaking up inside<br/>
-    A heart of broken glass<br/>
-    Defiled<br/>
-    Deep inside<br/>
-    The abandoned child</figcaption>
-    </figure>
