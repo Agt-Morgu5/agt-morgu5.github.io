@@ -19,7 +19,7 @@ author: Morgu5
 
 <iframe width="854" height="480" src="https://www.youtube.com/embed/O1gDqaFIU6I" frameborder="0" allowfullscreen></iframe>
 
-<span class="dcap">O</span>mundo lhe apresentava todas as manhãs a escola, onde apanhava dos alunos mais antigos, por ser um garoto ligeiramente insteligente, cantava hinos nacionais, de seu estado, a sua bandeira, e ao seu município. E onde houve ganho seu primeiro exercício de criptografia onde sua primeira paixão, uma menina chamada (...), lhe tomou a frente no resultado, divulgando a resposta de sua carteira: -"B.O.M D.O.M.I.N.G.O". Foi na escola que decidiu o que seria quando crescer: Piloto de aviões era seu sonho. Apesar de nunca ter ido atrás desta sua busca, o destino já havia lhe reservado algumas felicidades com as máquinas, e outras decepções com os humanos.
+<span class="dcap">O</span>mundo lhe apresentava todas as manhãs a escola, onde apanhava dos alunos mais antigos, por ser um garoto ligeiramente insteligente. Cantava hinos nacionais, de seu estado, a sua bandeira, e ao seu município. E onde houve ganho seu primeiro exercício de criptografia onde sua primeira paixão, uma menina chamada (...), lhe tomou a frente no resultado, divulgando a resposta de sua carteira: -"B.O.M D.O.M.I.N.G.O". Foi na escola que decidiu o que seria quando crescer: Piloto de aviões era seu sonho. Apesar de nunca ter ido atrás desta sua busca, o destino já havia lhe reservado algumas felicidades com as máquinas, e outras decepções com os humanos.
 
 <div class="text-divider"></div>
 
