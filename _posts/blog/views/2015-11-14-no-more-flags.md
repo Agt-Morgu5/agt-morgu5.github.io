@@ -23,9 +23,7 @@ author: Morgu5
 
 <div class="text-divider"></div>
 
-<div class="central-quote">"Continua..."</div>
+<div class="central-quote">"Continua"</div>
 
  <div class="text-divider"></div>
 <figure>   
-   
-    
