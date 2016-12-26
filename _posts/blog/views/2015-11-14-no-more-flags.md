@@ -6,7 +6,7 @@ comments: true
 title: 'Capítulo I: Nomad'
 date: '2016-12-04T18:50:00+01:00'
 modified: '2016-12-06T09:52:00+01:00'
-tags: [Toys, 5cript kid]
+tags: []
 author: Morgu5
 ---
 <span class="dcap">V</span>ejo-me obrigado a por em linhas o que  todos os homens que cruzaram, por algum motivo infeliz o caminho deste que vos escreve. De má vontade junto trechos de histórias pouco contadas por pessoas desagradáveis. Digo pois o colarinho justo me aperta e sinto-me estaguinado nas sombras de outras figuras que se dizem mais “capazes”, quando na verdade não passam de meros mortais construindo seus castelos de cartas, aos quais uma simples brisa lhe tira toda segurança e encantamento, e sem nenhum desafio aos olhos da criatura cibernética, se torna trivial a quebra de qualquer método falho de segurança, por força bruta.
